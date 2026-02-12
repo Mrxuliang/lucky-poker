@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">春节打牌运势</string>
+    <string name="title_activity_main">春节打牌运势</string>
+    <string name="package_name">com.luckypoker.fortune</string>
+    <string name="custom_url_scheme">com.luckypoker.fortune</string>
+</resources>
